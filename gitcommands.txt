@@ -1,0 +1,15 @@
+New:
+    git --version                                                                                             
+   4 git config --global user.name "Navya3051"                                                                 
+   5 git config --global user.email "navyaacchar.rs@gmail.com"                                                                                                                                                   
+   9 git init                                                                                                  
+  10 git add .                                                                                                 
+  11 git commit -m "Initial commit"                                                                            
+  12 git branch -M main                                                                                        
+  13 git remote add origin https://github.com/Navya-Achar-3051/Miniprojectdeploy.git                           
+  14 git push -u origin main 
+
+Existing:
+git add .
+git commit -m "added new file"
+git push origin new file
